@@ -1,3 +1,11 @@
+This is a fork of [braitschs](https://github.com/braitsch) great [ofxDatGui](https://github.com/braitsch/ofxDatGui). I simply added a fix for a case where the Dropdown wouldn't collapse again and the method _void addOption(string label)_ to add an option to the Dropdown. The changes are located in src/components/ofxDatGuiGroups and marked by:
+
+´´´// added by oneandonlyoddo
+somecode here
+// added end
+´´´
+For Documentation see original docs.
+
 ##ofxDatGui
 
 **ofxDatGui** is a **simple to use**, fully customizable, high-resolution graphical user interface for [openFrameworks](http://openframeworks.cc/) inspired by the popular JavaScript [datgui](http://workshop.chromeexperiments.com/examples/gui/) interface.  
